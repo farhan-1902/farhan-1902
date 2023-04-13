@@ -1,6 +1,6 @@
-### Hi there 👋
+### **Hi there 👋**
 
-My name is Farhan, I am an aspiring web and blockchain developer. 
+*My name is Farhan, I am an aspiring web and blockchain developer.* 
 
 - 🔭 I’m currently working on Blockchain and Web projects
 - 🌱 I’m currently learning Decentralized Application Development
